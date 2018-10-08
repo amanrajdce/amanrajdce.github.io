@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer-vision on Aman Raj</title>
+    <link>https://amanrajdce.github.io/tags/computer-vision/</link>
+    <description>Recent content in computer-vision on Aman Raj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Aman Raj</copyright>
+    <lastBuildDate>Sun, 27 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://amanrajdce.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FPGA accelerated Abandoned Object Detection</title>
+      <link>https://amanrajdce.github.io/project/fpga_design/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/project/fpga_design/</guid>
+      <description>Designed a standalone system that uses a novel static background modeling algorithm and identifies any object lying abandoned for a given period of time. Implemented on Xilinx FPGA ZYNQ-ZC702 board. VxWorks used as RTOS to manage the real time processes.
+  Horizontally placed camera on table top in minimally crowded place   </description>
+    </item>
+    
+    <item>
+      <title>3B Biometric Security System</title>
+      <link>https://amanrajdce.github.io/project/3b_security/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/project/3b_security/</guid>
+      <description>Developed a system prototype using BeagleBone Black and RGB camera for purpose of authorizing access and remote monitoring in Robotics Lab(DTU). The system uses a combination of real-time face recognition and input password to authorize access and monitors student’s activities in lab, and periodically sends these informations to lab-incharge on WhatsApp.</description>
+    </item>
+    
+    <item>
+      <title>Robot Navigation system using Xbox Kinect</title>
+      <link>https://amanrajdce.github.io/project/robot_navigation/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/project/robot_navigation/</guid>
+      <description>Built a navigation system for a robot using OpenCV and OpenKinect libraries, that uses disparity map along with pixel intensity calibration to compute the distance of an object/obstacle from the Xbox Kinect. Generated signals are sent to motor driver circuit that propels the wheel to avoid possible collision with obstacle.
+  </description>
+    </item>
+    
+    <item>
+      <title>Comic Polyglot</title>
+      <link>https://amanrajdce.github.io/project/comic_polyglot/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/project/comic_polyglot/</guid>
+      <description>Comic Polyglot-A system that identifies the text regions in comic strips like Manga and subsequently translates it&amp;rsquo;s Japanese text into English using an OCR engine while maintaining the syntax. It is aimed to help English-speaking manga comic readers.
+[Best Project Award], [Highresolution poster], [Project page]
+  Winter School Poster   </description>
+    </item>
+    
+    <item>
+      <title>Face Detection &amp; Tracking</title>
+      <link>https://amanrajdce.github.io/project/face_detector/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/project/face_detector/</guid>
+      <description>Created a robust algorithm that combines SIFT and CamShift algorithm to detect and track a human face in real time. The tracker correctly tracked face for more than 90 % of frames at 15 FPS on Intel core i5-2450M processor.</description>
+    </item>
+    
+    <item>
+      <title>HistExtract</title>
+      <link>https://amanrajdce.github.io/project/histextract/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/project/histextract/</guid>
+      <description>HistExtract, a system that extracts highly correlated text from historical inscription images. Work featured in ”Digital Heritage” project sponsored by Department of Science &amp;amp; Technology, Govt. of India.</description>
+    </item>
+    
+  </channel>
+</rss>

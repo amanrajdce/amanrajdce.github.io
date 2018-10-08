@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Aman Raj</title>
+    <link>https://amanrajdce.github.io/tags/</link>
+    <description>Recent content in Tags on Aman Raj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Aman Raj</copyright>
+    
+	<atom:link href="https://amanrajdce.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>computer-vision</title>
+      <link>https://amanrajdce.github.io/tags/computer-vision/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://amanrajdce.github.io/tags/deep-learning/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demo</title>
+      <link>https://amanrajdce.github.io/tags/demo/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

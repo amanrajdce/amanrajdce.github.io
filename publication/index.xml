@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Aman Raj</title>
+    <link>https://amanrajdce.github.io/publication/</link>
+    <description>Recent content in Publications on Aman Raj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Aman Raj</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://amanrajdce.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Holistic Framework for Addressing the World using Machine Learning</title>
+      <link>https://amanrajdce.github.io/publication/cvpr-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/publication/cvpr-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Street Addresses from Satellite Imagery</title>
+      <link>https://amanrajdce.github.io/publication/isprs-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/publication/isprs-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robocodes: Towards Generative Street Addresses from Satellite Imagery</title>
+      <link>https://amanrajdce.github.io/publication/robocode/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/publication/robocode/</guid>
+      <description>We got Best Paper Award</description>
+    </item>
+    
+    <item>
+      <title>FPGA Accelerated Abandoned Object Detection</title>
+      <link>https://amanrajdce.github.io/publication/fpga_accelerated/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/publication/fpga_accelerated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Scale Convolutional Architecture for Semantic Segmentation</title>
+      <link>https://amanrajdce.github.io/publication/multiscale/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/publication/multiscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitization of Historic Inscription Images using Cumulants based Simultaneous Blind Source Extraction</title>
+      <link>https://amanrajdce.github.io/publication/digitization_historic/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/publication/digitization_historic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancement and Retrieval of Historic Inscription Images</title>
+      <link>https://amanrajdce.github.io/publication/enhancement_retrieval/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/publication/enhancement_retrieval/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

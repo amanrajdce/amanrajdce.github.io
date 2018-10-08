@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Aman Raj</title>
+    <link>https://amanrajdce.github.io/home/</link>
+    <description>Recent content in Homes on Aman Raj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Aman Raj</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://amanrajdce.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://amanrajdce.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://amanrajdce.github.io/home/hero/</guid>
+      <description>&amp;ldquo;You live once, if you do it right, once is enough&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://amanrajdce.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/home/about/</guid>
+      <description>Biography I am pursuing my graduate studies in Machine Learning and Data Science at University of California San Diego.
+Previously, I was at Facebook Research as Software Engineer in Artificial Intelligence, from 2016-2018 where I worked on computer vision and machine learning problems.
+I graduated with a B.Tech degree from Department of Electronics and Communication Engineering, Delhi Technological University, India in 2016.
+I did summer internship in AirLab at Robotics Institute, Carnegie Mellon University, Pittsburgh in 2015.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://amanrajdce.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://amanrajdce.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://amanrajdce.github.io/home/news/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/home/news/</guid>
+      <description>April 2018: One paper selected in CVPR-2018, another in International Journal of Geo-Information(ISPRS), March 2018 issue. August 2017: Robocodes in news: state of maps, facebook research, geospatialworld June 2017: Our &amp;ldquo;Robocodes&amp;rdquo; paper at CVPR 2017 (paper) (code) August 2016: I have joined Facebook as Software Engineer in AI. March 2016: Presented my paper in ICCTICT 2016 on &amp;ldquo;FPGA Accelerated Abandoned Object Detection” (slides) February 2016: One paper selected in ICCTICT, IEEE, 2016 Jaunary 2016: Started working with DataCulture(now Supply.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://amanrajdce.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://amanrajdce.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanrajdce.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
