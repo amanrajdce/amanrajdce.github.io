@@ -1,0 +1,7 @@
+Aman Raj is a Deep learning research engineer at Apple, where he works on computer vision
+and machine learning. He received MS in Electrical and Computer Engineering majoring in
+machine learning and data science from the University of California, San Diego in 2020 and
+a B.Tech in Electrical  and Communication Engineering from the Delhi Technological University
+in 2012. He has received best paper award in CVPR-2017 EarthVision worskhop and
+The Jack Dangermond Award - Best Paper 2018 in ISPRS Journal.
+
